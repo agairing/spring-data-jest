@@ -47,10 +47,10 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 
 		<!-- Dependencies version -->
-		<springboot>2.0.0.M4</springboot>
+		<springboot>2.0.0.RC1</springboot>
 		<spring>5.0.0.RELEASE</spring>
 		<springdataes>3.0.0.RELEASE</springdataes>
-		<jest>5.3.2</jest>
+		<jest>5.3.3</jest>
 		<gson>2.8.0</gson>
 		<awssigning>0.0.16</awssigning>
 		<springcloudaws>1.2.1.RELEASE</springcloudaws>
